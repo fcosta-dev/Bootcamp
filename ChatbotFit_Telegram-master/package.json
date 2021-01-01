@@ -1,0 +1,19 @@
+{
+  "name": "projeto_chatbot_telegram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Cristiane Araujo Souza Dos Reis",
+  "license": "ISC",
+  "dependencies": {
+    "dialogflow": "^1.2.0",
+    "node-telegram-bot-api": "^0.50.0",
+    "uuid": "^8.1.0",
+    "youtube-node": "^1.3.3"
+  }
+}
