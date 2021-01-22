@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "JWQIL5uDD7KjWql+bP7yaD8g5GhbUiBYnYrNzZdClghMgYt1Z/3yxAswC5IvsfSD7B7qD+SH4h7qfWYIcNIuYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EDUARDOFELIZARDOCAND\\Documents\\GitHub\\Decola Dev Avanade 2021\\Configuração da arquitetura back-end com.NET Core\\CA back-end com .NET Core\\CA back-end com .NET Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EDUARDOFELIZARDOCAND\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\EDUARDOFELIZARDOCAND\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\EDUARDOFELIZARDOCAND\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\EDUARDOFELIZARDOCAND\\.nuget\\packages\\swashbuckle.aspnetcore.annotations\\5.6.3\\swashbuckle.aspnetcore.annotations.5.6.3.nupkg.sha512",
+    "C:\\Users\\EDUARDOFELIZARDOCAND\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\EDUARDOFELIZARDOCAND\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\EDUARDOFELIZARDOCAND\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

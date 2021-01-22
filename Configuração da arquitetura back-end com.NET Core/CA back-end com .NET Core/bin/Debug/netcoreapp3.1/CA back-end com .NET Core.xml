@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CA back-end com .NET Core</name>
+    </assembly>
+    <members>
+        <member name="M:CA_back_end_com_.NET_Core.Controllers.UsuarioController.Logar(CA_back_end_com_.NET_Core.Models.Usuarios.LoginViewModelInPut)">
+            <summary>
+            teste
+            </summary>
+            <param name="loginViewModelInPut"></param>
+            <returns>Retorna satus ok, dados do usuario e o token em caso</returns>
+        </member>
+    </members>
+</doc>

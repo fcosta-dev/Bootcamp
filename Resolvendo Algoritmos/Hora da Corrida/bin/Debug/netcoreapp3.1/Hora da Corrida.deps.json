@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Hora da Corrida/1.0.0": {
+        "runtime": {
+          "Hora da Corrida.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hora da Corrida/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

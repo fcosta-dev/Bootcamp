@@ -1,0 +1,13 @@
+C:\Users\EDUARDOFELIZARDOCAND\Documents\GitHub\Bootcamp Avanade\DigitalInovationOne\Projeto 2\Projeto2\bin\Debug\netcoreapp3.1\Projeto2.exe
+C:\Users\EDUARDOFELIZARDOCAND\Documents\GitHub\Bootcamp Avanade\DigitalInovationOne\Projeto 2\Projeto2\bin\Debug\netcoreapp3.1\Projeto2.deps.json
+C:\Users\EDUARDOFELIZARDOCAND\Documents\GitHub\Bootcamp Avanade\DigitalInovationOne\Projeto 2\Projeto2\bin\Debug\netcoreapp3.1\Projeto2.runtimeconfig.json
+C:\Users\EDUARDOFELIZARDOCAND\Documents\GitHub\Bootcamp Avanade\DigitalInovationOne\Projeto 2\Projeto2\bin\Debug\netcoreapp3.1\Projeto2.runtimeconfig.dev.json
+C:\Users\EDUARDOFELIZARDOCAND\Documents\GitHub\Bootcamp Avanade\DigitalInovationOne\Projeto 2\Projeto2\bin\Debug\netcoreapp3.1\Projeto2.dll
+C:\Users\EDUARDOFELIZARDOCAND\Documents\GitHub\Bootcamp Avanade\DigitalInovationOne\Projeto 2\Projeto2\bin\Debug\netcoreapp3.1\Projeto2.pdb
+C:\Users\EDUARDOFELIZARDOCAND\Documents\GitHub\Bootcamp Avanade\DigitalInovationOne\Projeto 2\Projeto2\obj\Debug\netcoreapp3.1\Projeto2.AssemblyInfoInputs.cache
+C:\Users\EDUARDOFELIZARDOCAND\Documents\GitHub\Bootcamp Avanade\DigitalInovationOne\Projeto 2\Projeto2\obj\Debug\netcoreapp3.1\Projeto2.AssemblyInfo.cs
+C:\Users\EDUARDOFELIZARDOCAND\Documents\GitHub\Bootcamp Avanade\DigitalInovationOne\Projeto 2\Projeto2\obj\Debug\netcoreapp3.1\Projeto2.csproj.CoreCompileInputs.cache
+C:\Users\EDUARDOFELIZARDOCAND\Documents\GitHub\Bootcamp Avanade\DigitalInovationOne\Projeto 2\Projeto2\obj\Debug\netcoreapp3.1\Projeto2.dll
+C:\Users\EDUARDOFELIZARDOCAND\Documents\GitHub\Bootcamp Avanade\DigitalInovationOne\Projeto 2\Projeto2\obj\Debug\netcoreapp3.1\Projeto2.pdb
+C:\Users\EDUARDOFELIZARDOCAND\Documents\GitHub\Bootcamp Avanade\DigitalInovationOne\Projeto 2\Projeto2\obj\Debug\netcoreapp3.1\Projeto2.genruntimeconfig.cache
+C:\Users\EDUARDOFELIZARDOCAND\Documents\GitHub\Bootcamp Avanade\DigitalInovationOne\Projeto 2\Projeto2\obj\Debug\netcoreapp3.1\Projeto2.csprojAssemblyReference.cache

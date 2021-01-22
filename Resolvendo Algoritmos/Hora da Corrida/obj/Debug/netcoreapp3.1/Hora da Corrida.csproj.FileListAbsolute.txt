@@ -1,0 +1,13 @@
+C:\Users\EDUARDOFELIZARDOCAND\Documents\GitHub\Decola Dev Avanade 2021\Resolvendo Algoritmos\Hora da Corrida\bin\Debug\netcoreapp3.1\Hora da Corrida.exe
+C:\Users\EDUARDOFELIZARDOCAND\Documents\GitHub\Decola Dev Avanade 2021\Resolvendo Algoritmos\Hora da Corrida\bin\Debug\netcoreapp3.1\Hora da Corrida.deps.json
+C:\Users\EDUARDOFELIZARDOCAND\Documents\GitHub\Decola Dev Avanade 2021\Resolvendo Algoritmos\Hora da Corrida\bin\Debug\netcoreapp3.1\Hora da Corrida.runtimeconfig.json
+C:\Users\EDUARDOFELIZARDOCAND\Documents\GitHub\Decola Dev Avanade 2021\Resolvendo Algoritmos\Hora da Corrida\bin\Debug\netcoreapp3.1\Hora da Corrida.runtimeconfig.dev.json
+C:\Users\EDUARDOFELIZARDOCAND\Documents\GitHub\Decola Dev Avanade 2021\Resolvendo Algoritmos\Hora da Corrida\bin\Debug\netcoreapp3.1\Hora da Corrida.dll
+C:\Users\EDUARDOFELIZARDOCAND\Documents\GitHub\Decola Dev Avanade 2021\Resolvendo Algoritmos\Hora da Corrida\bin\Debug\netcoreapp3.1\Hora da Corrida.pdb
+C:\Users\EDUARDOFELIZARDOCAND\Documents\GitHub\Decola Dev Avanade 2021\Resolvendo Algoritmos\Hora da Corrida\obj\Debug\netcoreapp3.1\Hora da Corrida.AssemblyInfoInputs.cache
+C:\Users\EDUARDOFELIZARDOCAND\Documents\GitHub\Decola Dev Avanade 2021\Resolvendo Algoritmos\Hora da Corrida\obj\Debug\netcoreapp3.1\Hora da Corrida.AssemblyInfo.cs
+C:\Users\EDUARDOFELIZARDOCAND\Documents\GitHub\Decola Dev Avanade 2021\Resolvendo Algoritmos\Hora da Corrida\obj\Debug\netcoreapp3.1\Hora da Corrida.csproj.CoreCompileInputs.cache
+C:\Users\EDUARDOFELIZARDOCAND\Documents\GitHub\Decola Dev Avanade 2021\Resolvendo Algoritmos\Hora da Corrida\obj\Debug\netcoreapp3.1\Hora da Corrida.dll
+C:\Users\EDUARDOFELIZARDOCAND\Documents\GitHub\Decola Dev Avanade 2021\Resolvendo Algoritmos\Hora da Corrida\obj\Debug\netcoreapp3.1\Hora da Corrida.pdb
+C:\Users\EDUARDOFELIZARDOCAND\Documents\GitHub\Decola Dev Avanade 2021\Resolvendo Algoritmos\Hora da Corrida\obj\Debug\netcoreapp3.1\Hora da Corrida.genruntimeconfig.cache
+C:\Users\EDUARDOFELIZARDOCAND\Documents\GitHub\Decola Dev Avanade 2021\Resolvendo Algoritmos\Hora da Corrida\obj\Debug\netcoreapp3.1\Hora da Corrida.csprojAssemblyReference.cache

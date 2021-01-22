@@ -1,0 +1,36 @@
+int limit = Int32.Parse(Console.ReadLine());
+        for (int i = 0; i < limit; i++) 
+        {
+            string[] line = Console.ReadLine().Split(" ");
+            double X = double.Parse(line[0]);
+            double Y = double.Parse(line[1]);
+            if (Y == 0) {
+                Console.WriteLine("divisao impossivel");
+            } else {
+                double divisao = X / Y; // Digite aqui o calculo da divisao
+                Console.WriteLine(divisao.ToString("N1"));
+            }
+        }
+
+int x = 3;
+            int y = 17;
+
+            int totalPlacas = x * y;
+
+            for (int i = 10; i <= 90; i += 10)
+            {
+                float result = (float)totalPlacas / 100 * i;
+                Console.Write(Math.Ceiling(result) + " ");
+            }
+
+if ( i == 0)
+            {
+              int x = 3;
+              int y = 17;
+            }
+            else
+            {
+              int x = 3;
+              int y = 11;
+            }
+            //int totalPlacas = x * y;
